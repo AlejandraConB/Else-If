@@ -1,17 +1,6 @@
- ## Evaluador de Promedio
+ ##  📌 Evaluador de Promedio
 
-El programa solicita al usuario que ingrese su promedio académico (un número decimal). Luego clasifica el promedio en diferentes categorías y muestra un mensaje específico según el rango al que pertenece:
-
-- Programa en C que recibe un promedio (1-7) y muestra un mensaje según el rendimiento.
-
-## Funcionalidad Principal
-
-Promedios no válidos (fuera del rango 1–7)
-Aprobado con nota máxima (7)
-Aprobado con buen promedio (6 a 7)
-Aprobado con promedio regular (5 a 6)
-Aprobado apenas (4 a 5)
-Reprobado (menos de 4)
+- El programa solicita al usuario que ingrese su promedio académico (un número decimal del 1-7). Luego clasifica el promedio en diferentes categorías y muestra un mensaje específico según el rendimiento.
 
 ## 🖥️ Tecnologías Utilizadas:
 
@@ -20,7 +9,12 @@ Reprobado (menos de 4)
 
 ## 📦 Requisitos:
 
-- Utilizar Google Colab.
+- Compilador gcc o cc.
+
+## ⚙️ Compilación
+
+- Compilación en sistemas GNU/Linux es el siguiente comando: gcc else-if.c -o else-if
+- En entornos Windows con Microsoft Visual C++, se utiliza el compilador cl.exe. Para compilar un programa, se debe abrir una ventana de símbolo del sistema para desarrolladores y ejecutar un comando como: cl else-if.c
 
 </br>
 
