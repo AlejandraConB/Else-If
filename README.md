@@ -13,8 +13,8 @@
 
 ## ⚙️ Compilación
 
-- Compilación en sistemas GNU/Linux es el siguiente comando: gcc else-if.c -o else-if
-- En entornos Windows con Microsoft Visual C++, se utiliza el compilador cl.exe. Para compilar un programa, se debe abrir una ventana de símbolo del sistema para desarrolladores y ejecutar un comando como: cl else-if.c
+- Compilación en sistemas GNU/Linux es el siguiente comando: **gcc else-if.c -o else-if**
+- En entornos Windows con Microsoft Visual C++, se utiliza el compilador cl.exe. Para compilar un programa, se debe abrir una ventana de símbolo del sistema para desarrolladores y ejecutar un comando como: **cl else-if.c**
 
 </br>
 
